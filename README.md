@@ -1,17 +1,17 @@
-**Analyzing Gourmet House Sales: Insights for Performance & Strategy | SQL**
+# **Analyzing Gourmet House Sales: Insights for Performance & Strategy | SQL**
 
 Author: Ho Nguyen Nhu Quynh
 
 Tool used: SQL (SQL Server)
 
-**Table of Contents**
+## **Table of Contents**
 
 - Background & Overview
 - Dataset Description & Data Structure
 - Main Process
 - Final Conclusion & Recommendation
 
-**Background & Overview**
+### **Background & Overview**
 
 **What is this about? What Business Question will it solve?**
  The project use SQL Server to analyze the performance of Gourmet House - a fast food chain restaurant and identify key insights to help improve sales performance and optimize business strategies
@@ -34,7 +34,7 @@ Tool used: SQL (SQL Server)
 - Data Source: The data provided for study and research purpose
 - Data size: 17,000
 
-**Main process:**
+### **Main process:**
 
 **1. Clean data:**
 
